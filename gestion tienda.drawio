@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T23:42:38.318Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Dc5qxGBXI375lp_Ob6WO" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-09T23:47:30.965Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jRLBYc2kwbiQLnh1upMM" version="22.1.7" type="github">
   <diagram name="Página-1" id="5zGCKzqBrTAyiICmERQD">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="-1pCVeiDUaxidrH_djaG-5" value="Visualizar inventario de tienda" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-1pCVeiDUaxidrH_djaG-6" value="Reporte mensual ganancias/gastos" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="-1pCVeiDUaxidrH_djaG-6" value="Reporte mensual&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1pCVeiDUaxidrH_djaG-8" value="Consultar venta" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
