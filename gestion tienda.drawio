@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T00:12:25.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="69PwvFaHPnZXklR3TLyY" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T00:13:10.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UybhIjMjNn_wPZqLpqqb" version="22.1.7" type="github">
   <diagram name="Página-1" id="5zGCKzqBrTAyiICmERQD">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-1pCVeiDUaxidrH_djaG-1" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=none;align=right;" parent="1" vertex="1">
-          <mxGeometry x="200" y="200" width="30" height="60" as="geometry" />
+          <mxGeometry x="200" y="180" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-1pCVeiDUaxidrH_djaG-2" value="Interfaz de gestión de tienda" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="200" height="320" as="geometry" />
